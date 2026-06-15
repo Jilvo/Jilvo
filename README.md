@@ -1,5 +1,3 @@
-# Salut, moi c'est Julien 👋
-
 Développeur Python / Django / FastAPI / Vue.js / Java / Flutter.
 
 ## 🛠️ Technologies
@@ -16,10 +14,6 @@ Développeur Python / Django / FastAPI / Vue.js / Java / Flutter.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jilvo&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css)
 
-## 📈 Stats GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jilvo&show_icons=true&theme=tokyonight)
-
 ## ⏱️ Temps de code
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jilvo&theme=tokyonight)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jilvo&theme=tokyonight&v=10)
