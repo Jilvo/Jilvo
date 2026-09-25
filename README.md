@@ -12,8 +12,8 @@ Développeur Python / Django / FastAPI / Vue.js / Java / Flutter.
 
 ## 📊 Langages les plus utilisés
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jilvo&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Jilvo&layout=compact&theme=tokyonight&hide=jupyter%20notebook,html,css)
 
 ## ⏱️ Temps de code
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jilvo&theme=tokyonight&v=10)
+![WakaTime stats](https://github-stats-extended.vercel.app/api/wakatime?username=Jilvo&theme=tokyonight&v=10)
